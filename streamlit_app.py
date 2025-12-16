@@ -305,8 +305,8 @@ def main():
         - Bank login pages without HTTPS
         - URLs with "secure-payment-verify"
         
-        **Perfect for your demo!** Shows clear logic for teachers.
-        """)
+         """)
 
 if __name__ == "__main__":
+
     main()
