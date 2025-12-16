@@ -33,7 +33,7 @@ st.markdown("""
         margin: 1rem 0;
     }
 </style>
-""", unsafe_allow_html=True)
+, unsafe_allow_html=True)
 
 class RuleBasedPhishingDetector:
     def __init__(self):
@@ -309,4 +309,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
